@@ -1,4 +1,6 @@
 #!/usr/bin/env ruby
+# Copyright (c) 2007 Mike Kelly <pioto@pioto.org>
+# Distributed under the terms of the GNU General Public License v2
 
 require 'xosd_bar'
 require 'xosd'
